@@ -1,0 +1,24 @@
+D:\Test c#\Product Entry\Product Entry\bin\Debug\Product Entry.exe.config
+D:\Test c#\Product Entry\Product Entry\bin\Debug\Product Entry.exe
+D:\Test c#\Product Entry\Product Entry\bin\Debug\Product Entry.pdb
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.csproj.AssemblyReference.cache
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.csproj.SuggestedBindingRedirects.cache
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product_Entry.FormAddEdit.resources
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product_Entry.FormProductView.resources
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product_Entry.Properties.Resources.resources
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.csproj.GenerateResource.cache
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.csproj.CoreCompileInputs.cache
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.exe
+D:\Test c#\Product Entry\Product Entry\obj\Debug\Product Entry.pdb
+D:\work\Product Entry\bin\Debug\Product Entry.exe.config
+D:\work\Product Entry\bin\Debug\Product Entry.exe
+D:\work\Product Entry\bin\Debug\Product Entry.pdb
+D:\work\Product Entry\obj\Debug\Product Entry.csproj.AssemblyReference.cache
+D:\work\Product Entry\obj\Debug\Product Entry.csproj.SuggestedBindingRedirects.cache
+D:\work\Product Entry\obj\Debug\Product_Entry.FormAddEdit.resources
+D:\work\Product Entry\obj\Debug\Product_Entry.FormProductView.resources
+D:\work\Product Entry\obj\Debug\Product_Entry.Properties.Resources.resources
+D:\work\Product Entry\obj\Debug\Product Entry.csproj.GenerateResource.cache
+D:\work\Product Entry\obj\Debug\Product Entry.csproj.CoreCompileInputs.cache
+D:\work\Product Entry\obj\Debug\Product Entry.exe
+D:\work\Product Entry\obj\Debug\Product Entry.pdb
